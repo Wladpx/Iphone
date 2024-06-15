@@ -42,7 +42,7 @@ public class iPhone implements src.ReprodutorMusical, src.AparelhoTelefonico, sr
     public void pausar() {
         //Implementação aqui
     }
-
+//lelo
     @Override
     public void selecionarMusica() {
         //Implementação aqui
